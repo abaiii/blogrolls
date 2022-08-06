@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'LXGW-Clear-Gothic';
+    /* src: url('Clear-Gothic.eot'); */
+    /* src: url('Clear-Gothic.eot?#iefix') format('embedded-opentype'), */
+         /* url('Clear-Gothic.woff') format('woff'), */
+    src: url('Clear-Gothic.ttf') format('truetype');
+         /* url('Clear-Gothic.svg#LXGW-Clear-Gothic') format('svg'); */
+    font-style: normal;
+    font-weight: normal;
+}

@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Space+Mono|Rubik);
+
+a {
+    font-family: "Space Mono", "LXGW-Clear-Gothic";
+    transition: ease-in-out 0.3s;
+}
+
+body {
+    font-family: "LXGW-Clear-Gothic";
+}
+
+.horizontal-rule::before {
+    content: '';
+}
+
+.cstm-font-bmo {
+    font-family: "Rubik", "LXGW-Clear-Gothic"
+}
