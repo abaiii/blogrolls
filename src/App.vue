@@ -25,7 +25,7 @@ export default {
       <div class="text-2xl lg:h-1/6 flex justify-start items-start lg:w-2/3 flex-col">
         Blogroll
         <div class="text-xl lg:text-2xl mt-2 mb-2 lg:mt-0 lg:mb-0">
-          Routes: <a href="https://francie.cc" class="hover:text-neutral-500 dark:hover:text-slate-500">/home</a>, <a class="hover:text-neutral-500 dark:hover:text-slate-500" href="https://github.com/franci-e/blogroll">如何添加友链</a>
+          Routes: <a href="https://francie.cc" class="hover:text-neutral-500 dark:hover:text-slate-500">/home</a>, <a class="hover:text-neutral-500 dark:hover:text-slate-500" href="https://github.com/franci-e/blogrolls">如何添加友链</a>
         </div>
         
 
